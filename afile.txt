@@ -6,4 +6,8 @@ Added a third line from the cloud.
 
 A change on branch 1.0.
 
-Test of pull request.
+1. Pull request test from branch 1.0
+
+2. Test of pull request from master.
+
+3. Second pull request from 1.0
