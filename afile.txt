@@ -1,1 +1,3 @@
 A new file is created!
+
+Added a second line in the file.
