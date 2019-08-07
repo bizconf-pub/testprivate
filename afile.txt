@@ -5,3 +5,5 @@ Added a second line in the file.
 Added a third line from the cloud.
 
 A change on branch 1.0.
+
+Pull request test from branch 1.0
